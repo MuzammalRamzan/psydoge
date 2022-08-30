@@ -1,0 +1,11 @@
+.containerc{
+    padding-left: 40px;
+}
+
+@media (min-width: 320px) and (max-width:480px) {
+    .containerc{
+        padding-left: 0px;
+    }
+    
+    
+}
